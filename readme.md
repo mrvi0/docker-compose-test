@@ -1,4 +1,4 @@
-# With Docker Compose
+# With Docker Compose 
 
 This example contains everything needed to get a Next.js development and production environment up and running with Docker Compose.
 
